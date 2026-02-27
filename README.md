@@ -13,7 +13,7 @@ This project is an educational and high-performance AI engineering tool designed
 
 **🛡️ Robust Error Handling:** Features a custom exception management system (`LLMAnalysisError`, `MissingConfigurationError`) that isolates failures at the email level, allowing batch processes to continue uninterrupted even if individual API calls timeout.
 
-**🧩 Modular Architecture:** Clean, object-oriented code separated into distinct modules (`analyzer`, `router`, `config`, `exceptions`) following software engineering best practices.
+**🧩 Modular Architecture:** Clean, object-oriented code separated into distinct modules (`analyzer`, `router`, `config`, `exceptions`).
 
 
 
