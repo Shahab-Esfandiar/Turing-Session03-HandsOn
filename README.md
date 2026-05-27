@@ -1,5 +1,5 @@
 # 📧 Automated AI Email Router
-This project is an educational and high-performance AI engineering tool designed to demonstrate how Large Language Models (LLMs) can transform unstructured communications into structured, actionable data. It acts as an automated "Digital Receptionist," analyzing incoming organizational emails, extracting critical metadata, and dynamically routing them to the correct departmental endpoints.
+A high-performance tool designed to demonstrate how Large Language Models (LLMs) can transform unstructured communications into structured, actionable data. It acts as an automated "Digital Receptionist," analyzing incoming organizational emails, extracting critical metadata, and dynamically routing them to the correct departmental endpoints.
 
 ## ✨ Key Features
 
